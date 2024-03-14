@@ -7,4 +7,4 @@ if __name__ == "__main__":
     else:
         for argument in range(1, len(sys.argv)):
             sum = sum + int(sys.argv[argument])
-            print(sum)
+        print(sum)
